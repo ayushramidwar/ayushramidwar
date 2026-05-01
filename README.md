@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋Hi, I'm Ayush Ramidwar
 
-<!--
-**ayushramidwar/ayushramidwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Electronics & Communication Engineering Student
+💻 Focused on Software Engineering, IoT Systems, and Web Development
+🚀 Building real-world projects combining hardware + software
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* Passionate about developing scalable and practical tech solutions
+* Strong interest in IoT-based systems and full-stack development
+* Currently improving problem-solving and system design skills
+
+---
+
+## 🌱 Currently Learning
+
+* Core Java
+* SQL (Oracle SQL & Database Design)
+* Backend integration for IoT systems
+
+---
+
+## 🔧 Technical Skills
+
+**Languages:**
+Core Java
+
+**Web Technologies:**
+HTML, CSS, JavaScript
+
+**Tools & Platforms:**
+Arduino, Oracle SQL
+
+---
+
+## 🛠️ Projects
+
+IoT-Based Violence Detection System
+
+
+## 🚀 Featured Work
+
+* IoT-Based Systems
+* Web Applications 
+* Database-driven Projects
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn:www.linkedin.com/in/ayush-ramidwar-ar01
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy combining electronics with software to build smart, real-world systems.
